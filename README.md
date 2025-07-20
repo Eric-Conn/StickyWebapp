@@ -4,5 +4,5 @@ Use this webapp to write notes and ideas, and to make tables. There is a downloa
 
 This webapp was coded using AI.
 
-link to use it:
+Link to use it:
 [Sticky Webapp](https://eric-conn.github.io/StickyWebapp/)
