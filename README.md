@@ -1,3 +1,3 @@
 # Sticky Webapp
 
-This webapp was coded useing AI.
+This webapp was coded using AI.
